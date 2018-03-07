@@ -8,7 +8,7 @@
 
 ## v2
 
-![v2](./images/V2.jpg)
+![v2](./images/v2.jpg)
 
 
 ## Documentación
